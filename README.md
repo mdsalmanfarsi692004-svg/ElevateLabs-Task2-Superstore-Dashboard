@@ -18,7 +18,7 @@ Based on the analysis of the Superstore data, the dashboard highlights the follo
 * **Geographic Insights:** California and New York are the top-performing states in terms of sales.
 
 ## 📸 Dashboard
-[Click here to view the Dashboard PDF](file:///C:/Users/mdsal/AppData/Local/Temp/Power%20BI%20Desktop/print-job-c3a61168-a2ae-46fb-9aae-2beecad49a2e/Super%20Store%20Sales%20Dashboard.pdf)
+[Click here to view the Dashboard PDF](Super%20Store%20Sales%20Dashboard.pdf)
 
 ## 🧠 Interview Questions & Answers
 *Reflecting on the theoretical aspects of data visualization as requested in the task:*
